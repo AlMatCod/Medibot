@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ===================== Настройки =====================
-TELEGRAM_TOKEN = "8722005343:AAF9xTxhdjVF-3xt0DKwwEarnBViyNZi6lo"
-API_KEY = "apf_bni2bqia13huplh25ripmtv2"
+TELEGRAM_TOKEN = "tg api"
+API_KEY = "api"
 
 # ===================== Функция запроса к LLM =====================
 def ask_med_ai(prompt: str) -> str:
