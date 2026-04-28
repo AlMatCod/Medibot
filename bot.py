@@ -1,3 +1,6 @@
+# Made by IST Technology    
+# Telegram: @ISToffical
+#GitHub: AlMatCod
 import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
